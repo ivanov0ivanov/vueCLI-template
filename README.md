@@ -1,4 +1,4 @@
-# graff_pink
+# example
 
 ## Project setup
 ```
